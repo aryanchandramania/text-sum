@@ -52,8 +52,6 @@ We also feel the reason MMR slightly underperformed as compared to our inital ex
 
 We have run the Edmundsons' and MMR model for 20 clusters. We have attached their summaries and scores.
 
-GitHub repo [here](https://github.com/Harinie-Sethu/Automatic_Summarizer)
-
 # References
 Edmundson, H.P. (1969) New Methods in Automatic Extracting. Journal of the ACM (JACM), 16, 264-285.
 Carbonell, Jaime, and Jade Goldstein. "The use of MMR, diversity-based reranking for reordering documents and producing summaries." Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval. 1998.
