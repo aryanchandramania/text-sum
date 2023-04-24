@@ -1,5 +1,3 @@
-# <center>Comp Linguistics II  (CL3.202)</center>  
-
 # <center>Project Report</center>
 
 ### <center>Aryan Chandramania | Harinie Sivaramasethu </center> 
